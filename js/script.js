@@ -13,3 +13,4 @@ fetch("./assets/about.txt")
   .catch((err) => {
     console.error("Error loading About Me:", err);
   });
+ 
